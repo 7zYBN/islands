@@ -1,0 +1,17 @@
+#container{
+    display: grid;
+    height: 500px;
+    min-height: 100vh;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+div{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
